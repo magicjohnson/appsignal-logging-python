@@ -1,5 +1,7 @@
 # AppSignal Logging for Python
 
+[![PyPI version](https://badge.fury.io/py/appsignal-logging.svg)](https://badge.fury.io/py/appsignal-logging)
+[![Python Support](https://img.shields.io/pypi/pyversions/appsignal-logging.svg)](https://pypi.org/project/appsignal-logging/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Python logging handlers for [AppSignal](https://www.appsignal.com/) with support for both simple HTTP and high-performance NDJSON batch endpoints.
@@ -219,6 +221,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Links
 
 - [AppSignal Documentation](https://docs.appsignal.com/logging/)
+- [PyPI Package](https://pypi.org/project/appsignal-logging/)
 - [GitHub Repository](https://github.com/magicjohnson/appsignal-logging-python)
 - [Issue Tracker](https://github.com/magicjohnson/appsignal-logging-python/issues)
 
